@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394877887003",
+    "project_id": "geez-language--learning-app",
+    "storage_bucket": "geez-language--learning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394877887003:android:f48da48b23173781db4ebe",
+        "android_client_info": {
+          "package_name": "com.example.save_geez_learning_aid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394877887003-sgiat0mq0luc2oqonttil6m2d3ig38lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWE3UiTcdqTwZ3QAJbD38Je5FefF1YiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394877887003-sgiat0mq0luc2oqonttil6m2d3ig38lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
